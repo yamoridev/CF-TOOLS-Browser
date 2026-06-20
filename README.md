@@ -33,5 +33,5 @@
   <img width="400" height="838" alt="image" src="https://github.com/user-attachments/assets/a3242921-e58a-4808-8df7-347bb2839354" />
   <img width="274" height="811" alt="image" src="https://github.com/user-attachments/assets/6012154b-1575-4223-9827-207f1b7c80c4" />
 
-Если вы найдете какие - то дыры в моем коде я буду раз если вы сообщиет ds developer Yamori Ko, так же в своем дс я расказываю про кибербезопасность и как не стать самим этой информацией.
+Если вы найдете какие - то дыры в моем коде я буду раз если вы сообщиет ds developer Yamori Ko.
 https://discord.gg/qkrrVYytaM
